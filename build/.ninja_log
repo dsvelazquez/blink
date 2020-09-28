@@ -2238,3 +2238,15 @@
 828	4613	6230353769506738	esp-idf/esp32/ld/esp32.project.ld	4800151c36ddf5b6
 4613	5564	6230353779084448	blink.elf	e875d7cbd6c7c588
 5565	5968	6230353783351299	.bin_timestamp	8a059ea96d5c821
+64	426	0	esp-idf/partition_table/CMakeFiles/partition_table	20851153c067c394
+75	475	6230358694391619	esp-idf/app_update/CMakeFiles/__idf_app_update.dir/esp_app_desc.c.obj	4d7b2845b1be52c8
+90	575	6230358695404352	esp-idf/main/CMakeFiles/__idf_main.dir/blink.c.obj	ead6126272ba6563
+427	589	6230259856409884	bootloader-prefix/src/bootloader-stamp/bootloader-build	a1020492e7ace9d5
+427	589	6230259856409884	bootloader/bootloader.elf	a1020492e7ace9d5
+427	589	6230259856409884	bootloader/bootloader.bin	a1020492e7ace9d5
+427	589	6230259856409884	bootloader/bootloader.map	a1020492e7ace9d5
+475	682	6230358696538751	esp-idf/app_update/libapp_update.a	17b4704f07e04ee
+683	883	6230358698533172	esp-idf/main/libmain.a	17bd4d5d3de4ea3d
+883	4658	6230358736020842	esp-idf/esp32/ld/esp32.project.ld	4800151c36ddf5b6
+4658	5617	6230358745700409	blink.elf	e875d7cbd6c7c588
+5618	6027	6230358750038479	.bin_timestamp	8a059ea96d5c821
