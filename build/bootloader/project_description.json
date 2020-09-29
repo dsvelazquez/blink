@@ -1,12 +1,12 @@
 {
     "project_name":       "bootloader",
     "project_path":       "C:/ESP/esp-idf/components/bootloader/subproject",
-    "build_dir":          "C:/ESP/ESP_Projects/blink/build/bootloader",
-    "config_file":        "C:/ESP/ESP_Projects/blink/sdkconfig",
+    "build_dir":          "C:/ESP/Projects/blink/build/bootloader",
+    "config_file":        "C:/ESP/Projects/blink/sdkconfig",
     "config_defaults":    "",
     "app_elf":            "bootloader.elf",
     "app_bin":            "bootloader.bin",
-    "git_revision":       "v4.0.1-dirty",
+    "git_revision":       "HEAD-HASH-NOTFOUND",
     "phy_data_partition": "",
     "monitor_baud" : "115200",
     "config_environment" : {

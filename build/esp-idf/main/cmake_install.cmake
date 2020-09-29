@@ -1,4 +1,4 @@
-# Install script for directory: C:/ESP/ESP_Projects/blink/main
+# Install script for directory: C:/ESP/Projects/blink/main
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
